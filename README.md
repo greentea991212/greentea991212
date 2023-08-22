@@ -37,6 +37,7 @@
 
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greentea991212&show_icons=true&theme=vue)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greentea991212&layout=compact)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greentea991212&theme=shadow_green)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 
