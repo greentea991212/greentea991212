@@ -34,10 +34,17 @@
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
   </br>
   </br>
+  </br>
+  </br>
+  </br>
+
+
+ <h3>📈<strong> Github Stas </strong>📈</h3>
 
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greentea991212&show_icons=true&theme=vue)
+ ![greentea991212's GitHub stats](https://github-readme-stats.vercel.app/api?username=greentea991212&show_icons=true&theme=vue-dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greentea991212&layout=compact&theme=vue-dark&size_weight=0.5&count_weight=0.5)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greentea991212&theme=shadow_green)](https://github.com/anuraghazra/github-readme-stats)
+ 
   </div>
 
