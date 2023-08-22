@@ -9,8 +9,7 @@
   
   <span style = "font-size: 20px;">Min-hyuk Kim<br>Handong Global University<br>CSEE 19</span>
 
-  
-  <hr>
+
   </br>
   </br>
   <h3>💻<strong> Stack </strong>💻</h3>
@@ -36,15 +35,18 @@
   </br>
   </br>
   </br>
-  </br>
+  
 
-
- <h3>📈<strong> Github Stas </strong>📈</h3>
-
+ <h3>🚀<strong> Github stas </strong>🚀</h3>
+ <P>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=greentea991212&show_icons=true&theme=vue-dark">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greentea991212&layout=compact&theme=vue-dark&size_weight=0.5&count_weight=0.5">
+ </P>
  
- ![greentea991212's GitHub stats](https://github-readme-stats.vercel.app/api?username=greentea991212&show_icons=true&theme=vue-dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greentea991212&layout=compact&theme=vue-dark&size_weight=0.5&count_weight=0.5)
+ ---
+<h4>💌 Contacts 💌</h4>
 
- 
+
+ Email: green_tea@handong.ac.kr
   </div>
 
